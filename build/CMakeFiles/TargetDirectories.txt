@@ -1,0 +1,3 @@
+/Users/dylanw/Desktop/celeste-sim/build/CMakeFiles/CelesteSim.dir
+/Users/dylanw/Desktop/celeste-sim/build/CMakeFiles/edit_cache.dir
+/Users/dylanw/Desktop/celeste-sim/build/CMakeFiles/rebuild_cache.dir
